@@ -1,6 +1,6 @@
 <div align ="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20I'msubin%20👋&color=timeGradient&height=270&section=header&fontColor=FFFFFF&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20I'mo%20subin%20👋&color=timeGradient&height=270&section=header&fontColor=FFFFFF&fontSize=80&animation=twinkling)
 
 
 ### Hello, I'm Subin. I'm dreaming of becoming a frontend developer. 🌱
