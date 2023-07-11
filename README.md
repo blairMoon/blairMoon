@@ -1,10 +1,5 @@
 <div align ="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20I'm%20subin%20👋&color=timeGradient&height=270&section=header&fontColor=FFFFFF&fontSize=80&animation=twinkling)
-
-
-### Hello, I'm Subin. I'm dreaming of becoming a frontend developer. 🌱
-
 <br><br>
 <a href="https://velog.io/@subb_ny"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/> <a href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/subbny0621@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
