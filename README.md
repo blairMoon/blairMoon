@@ -1,7 +1,7 @@
 <div align ="center">
 
 <br><br>
-<img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/> <a href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/subbny0621@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/subbny0621@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 
 
